@@ -1,0 +1,59 @@
+
+p{
+    font-family: Roboto;
+}
+.video-title{
+    
+    font-size: 18px;
+    font-weight: bold;
+    
+    
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 2px;
+}
+
+.video-stats{
+    
+    font-size: 14px;
+    color: #606060;
+    margin-bottom: 20px;
+    margin-top: 0px;   
+
+}
+
+.author{
+    color : #606060;
+    font-size: 14px;
+   
+    margin-bottom: 20px;
+}
+
+.content{
+    margin-bottom: 100px;
+    
+    font-size: 14px;
+    color : #606060;
+    width: 280px;
+    line-height: 20px;
+
+}
+.redline{
+   
+    font-size: 14px;
+    text-align: center;
+    background-color: rgb(227,65,64);
+    color: white;
+    width:1000px;
+    
+    padding-top: 18px;
+    padding-bottom: 18px;  
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
